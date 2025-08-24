@@ -4,3 +4,10 @@ cousin = bannu + sunny
 print(cousin)
 ss = "hello"
 print(ss)
+
+
+
+
+
+
+sunny = 5
