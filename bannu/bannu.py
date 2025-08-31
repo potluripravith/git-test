@@ -5,9 +5,9 @@ print(cousin)
 ss = "hello"
 print(ss)
 
-
-
-
-
+print("ff")
+print("ff")
+print("ff")
+print("ff")
 
 sunny = 5
